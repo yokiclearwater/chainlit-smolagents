@@ -1,0 +1,5 @@
+pandas
+dotenv
+chainlit
+smolagents
+litellm
